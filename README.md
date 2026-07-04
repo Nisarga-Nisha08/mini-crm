@@ -1,4 +1,4 @@
-# Mini CRM – Client Lead Management System
+# Mini CRM – Client Lead Management System.
 
 A production-grade, full-stack **Customer Relationship Management (CRM)** platform built to manage sales leads, track conversion workflows, and provide real-time analytics. This is a complete business tool designed with modern development practices.
 
