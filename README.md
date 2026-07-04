@@ -81,7 +81,7 @@ Before you begin, ensure you have installed:
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/nisargamt-boop/mini-crm.git
+git clone https://github.com/Nisarga-Nisha08/mini-crm.git
 cd mini-crm
 ```
 
